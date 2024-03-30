@@ -28,8 +28,6 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@babel/preset-react": "^7.24.1",
-    "@babel/preset-typescript": "^7.24.1",
     "@chromatic-com/storybook": "^1.2.25",
     "@storybook/addon-essentials": "^8.0.5",
     "@storybook/addon-interactions": "^8.0.5",
@@ -54,8 +52,5 @@
     "vite": "^5.2.0",
     "vite-plugin-dts": "^3.8.1",
     "vite-plugin-lib-inject-css": "^2.0.1"
-  },
-  "jest": {
-    "testEnvironment": "jsdom"
   }
 }
